@@ -1,0 +1,15 @@
+#include<stdio.h> is a preprocessor directive
+
+int is a keyword
+ main() is an identifier
+{ is an opening block
+
+printf is an identifier
+( is a opening paranthesis
+"1234" is a literal
+) is a closing paranthesis
+; is a special symbol
+
+
+} is a closing block
+
