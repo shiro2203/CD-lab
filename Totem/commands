@@ -1,0 +1,8 @@
+
+week-2
+commands
+cd Desktop
+cd Totem
+lex myfirstone.l
+cc lex.yy.c
+./a.out ccode.c
